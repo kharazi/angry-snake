@@ -1,0 +1,32 @@
+-------------------------------------------------
+-----------------NETWORK SNAKE-------------------
+-------------------------------------------------
+IN SERVER COMPUTER
+------------------
+1- start>accessories>command Prompet
+
+2-type 'ipconfig' and press Enter
+
+3-note IPv4 Address
+
+4-run the angry snakes 
+	 >play>2 players Network>SERVER
+	write IPv4 in part of YOUR IP
+
+Press Enter and wait
+
+------------------
+IN CLIENT COMPUTER
+------------------
+
+5-run the angry snakes 
+	 >play>2 players Network>CLIENT
+	 write IP of server in part of server IP
+
+press enter and Play game
+
+
+
+
+
+
